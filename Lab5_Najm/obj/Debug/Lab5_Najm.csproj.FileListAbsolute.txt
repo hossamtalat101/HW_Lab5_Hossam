@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab5_Najm\Lab5_Najm\bin\Debug\Lab5_Najm.exe.config
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab5_Najm\Lab5_Najm\obj\Debug\Lab5_Najm.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab5_Najm\Lab5_Najm\obj\Debug\Lab5_Najm.Form1.resources
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab5_Najm\Lab5_Najm\obj\Debug\Lab5_Najm.Properties.Resources.resources
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab5_Najm\Lab5_Najm\obj\Debug\Lab5_Najm.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab5_Najm\Lab5_Najm\bin\Debug\Lab5_Najm.exe
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab5_Najm\Lab5_Najm\bin\Debug\Lab5_Najm.pdb
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab5_Najm\Lab5_Najm\obj\Debug\Lab5_Najm.exe
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab5_Najm\Lab5_Najm\obj\Debug\Lab5_Najm.pdb
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab5_Najm\Lab5_Najm\obj\Debug\Lab5_Najm.Form2.resources
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab5_Najm\Lab5_Najm\obj\Debug\Lab5_Najm.Form3.resources
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab5_Najm\Lab5_Najm\obj\Debug\Lab5_Najm.Form4.resources
